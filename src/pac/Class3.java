@@ -7,5 +7,4 @@ public class Class3 {
 
 		System.out.println("Class3");
 	}
-
 }
